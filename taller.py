@@ -7,4 +7,6 @@ def suma(a, b):
     return suma
 
 
-def restar
+def restar(a, b):
+    resultado = a - b
+    return restar
