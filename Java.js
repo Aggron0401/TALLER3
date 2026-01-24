@@ -21,7 +21,9 @@
         }
 
         function decrementar() {
-            valor--;
+            if (valor > 0) {   // ← modificación
+                valor--;
+            }
             document.getElementById("contador").innerText = valor;
         }
     </script>
