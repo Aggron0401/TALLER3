@@ -10,3 +10,7 @@ def suma(a, b):
 def restar(a, b):
     resultado = a - b
     return restar
+
+def multiplicar(a,b):
+    resultado = a * b
+    return multiplicar
