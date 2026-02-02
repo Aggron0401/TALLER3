@@ -11,6 +11,7 @@ def restar(a, b):
     resultado = a - b
     return restar
 
-def multiplicar(a,b):
+
+def multiplicar(a, b):
     resultado = a * b
     return multiplicar
